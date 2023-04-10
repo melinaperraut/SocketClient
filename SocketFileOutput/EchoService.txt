@@ -1,0 +1,4 @@
+Echo service output:
+
+$ java TCPClient.java tcpbin.com 4242 test_mp
+test_mp

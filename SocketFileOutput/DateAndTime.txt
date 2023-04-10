@@ -1,0 +1,5 @@
+Date-and-Time service output:
+
+$ java TCPClient.java time.nist.gov 13
+
+60044 23-04-10 03:14:05 50 0 0 823.4 UTC(NIST) *
